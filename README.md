@@ -1,4 +1,3 @@
-Based on your provided code for a clock application in Rust using the Chrono library, here’s a README that outlines its functionality, setup, and usage:
 
 ```markdown
 # Rust Clock Application
